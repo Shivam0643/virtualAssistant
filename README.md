@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/ebcb1aa0-cf53-49f9-ad74-0e4aa245e292" /><img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/918cf706-128c-4b4f-8e54-8e05ab200488" />⭐ virtualAssistant
+⭐ virtualAssistant
 
 An interactive MERN-stack Virtual Assistant application that allows users to perform tasks, ask questions, and receive responses through both voice and text. The assistant listens only when the user addresses it by the personalized name they assign—creating a more natural, real-world assistant experience.
 
